@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SOAP_EndPoint_Demo
+
+SOAPclient:
+  url: http://www.dataaccess.com/webservicesserver/numberconversion.wso
